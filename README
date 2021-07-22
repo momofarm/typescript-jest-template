@@ -1,6 +1,7 @@
 A jest test enabled typescript template.
 
-It's for lazy guy who just want a typescript project with jest framework setup.
+It's for lazy guy who just want a typescript project with jest test framework setup and ready to use.
+Search internet for a good solution isn't that productive. 
 
 install:
   1. clone this repo
