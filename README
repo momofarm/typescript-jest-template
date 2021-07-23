@@ -10,7 +10,13 @@ install:
   
   and all should be done
   
-  if there is a problem, please file it in issues list. 
+writing test case:
+  your should refer to Jest documentation for further information on how to write test case with Jest.
+  when you done, issue command:
+    npm test
+    
+    
+if there is a problem, please file it in issues list. 
   
 DISCLAIM:
 I've only test it with VS Code(Community version), but this should work with other work environment. 
