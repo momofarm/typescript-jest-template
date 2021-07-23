@@ -12,3 +12,5 @@ install:
   
   if there is a problem, please file it in issues list. 
   
+DISCLAIM:
+I've only test it with VS Code(Community version), but this should work with other work environment. 
